@@ -1,0 +1,6 @@
+{
+  "name": "My Personal eBook Store",
+  "description": "Production-ready personal eBook store with direct UPI payments, manual verification, and secure digital delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
